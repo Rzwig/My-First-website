@@ -23,6 +23,8 @@
     text-effect: engrave;
     color: #0a6694;
     width: 204px;
+    position: relative;
+    z-index: 100;
 }
 
 
